@@ -1,4 +1,9 @@
-### [Hello there](https://i.giphy.com/media/lIzAEoZEn571u/giphy.webp) 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello There!&height=100&section=header"/>
+</p>
+```yaml
+* YOUR TEXT GOES HERE *
+```
 
 <!--
 **Kalvelign/kalvelign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
